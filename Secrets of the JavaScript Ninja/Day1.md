@@ -1,6 +1,6 @@
 |                   title                    |        date         |     tags     |
 | :----------------------------------------: | :-----------------: | :----------: |
-| Secrets of the JavaScript Ninja-打卡第一天 | 2019-07-07 | 理解函数调用 |
+| Secrets of the JavaScript Ninja-打卡第一天 | 2019-07-06 | 理解函数调用 |
 
 
 

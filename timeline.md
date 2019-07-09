@@ -11,3 +11,4 @@
 《图解HTTP》打卡
 
 - 2019-07-08	《图解HTTP》打卡[第一天](https://yeoman.space/2019/07/08/%E3%80%8A%E5%9B%BE%E8%A7%A3HTTP%E3%80%8B%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/#chapter-1)。知识点&进度：URL 和 URI 的区别、持久连接、管线化。读完第二章。
+- 2019-07-09	《图解HTTP》打卡[第二天](https://yeoman.space/2019/07/09/%E3%80%8A%E5%9B%BE%E8%A7%A3HTTP%E3%80%8B%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89/#%E6%8A%A5%E6%96%87%E7%BB%93%E6%9E%84)。知识点&进度：报文结构、常见的状态码。读完第三、四章。

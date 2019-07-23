@@ -128,3 +128,5 @@ history.pushState({name: 'Yeoman'}, 'new hash', '/index')
 ```
 
 因为 `pushState()` 会创建新的历史状态,所以你会发现“后退”按钮也能使用了。
+
+![补充说明](https://s2.ax1x.com/2019/07/23/eFb8B9.png)
